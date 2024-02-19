@@ -1,33 +1,14 @@
+/* styles.css */
+
 body {
-  font-family: "Arial", sans-serif;
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
 }
 
-header {
-  background-color: #333;
-  color: #fff;
-  text-align: center;
-  padding: 1em 0;
+h1 {
+  color: #333;
 }
 
-main {
-  max-width: 800px;
-  margin: 20px auto;
-  padding: 0 20px;
-}
-
-section {
-  margin-bottom: 20px;
-}
-
-footer {
-  background-color: #333;
-  color: #fff;
-  text-align: center;
-  padding: 1em 0;
-  position: fixed;
-  width: 100%;
-  bottom: 0;
+p {
+  color: #666;
 }
